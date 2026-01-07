@@ -98,12 +98,4 @@ Front/
 2. Implement real authentication with JWT
 3. Add Google Maps API for terrain locations
 4. Create booking system
-5. Add user profiles and favorites
-
-## 📄 License
-
-This project is open source and available for personal use.
-
----
-
-Built with ❤️ for Padel enthusiasts in Morocco
+5. Add user profiles and favorite.
